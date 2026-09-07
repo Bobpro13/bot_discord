@@ -1,0 +1,13 @@
+{
+  "name": "owo-captcha-guard",
+  "version": "1.0.0",
+  "description": "Discord bot that pings you when OwO bot sends a captcha",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
